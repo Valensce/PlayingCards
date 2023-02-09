@@ -1,5 +1,3 @@
-<h1>Inquisitive</h1>
-<script>
     let deck = [
       {'value': 1, 'suit': 'c', 'face': 'a'},
       {'value': 2, 'suit': 'c', 'face': '2'},
@@ -25,4 +23,3 @@
   console.log(deck[5]['value']+deck[7]['value']);
   console.log(deck[5].value+deck[7].value);
   //these lines of code do the same thing
-</script>
