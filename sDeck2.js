@@ -14,12 +14,9 @@
       {'value': 10, 'suit': 'c', 'face': 'k'},
     ]
   //console.log's must come after all dictionaries/arrays based on my experience
-  console.log(deck);
   console.log(deck[4]);
-  
   console.log(deck[4].suit);
   console.log(deck[5]['value']);
-
   console.log(deck[5]['value']+deck[7]['value']);
   console.log(deck[5].value+deck[7].value);
   //these lines of code do the same thing
