@@ -22,3 +22,4 @@
   ////To display each element individually as well as the entire array above, use a for loop
   ////syntax is: for(start value; condition; increment)
   ////deck.length (26) is exactly 1 more than the last card's index (25), so the condition (i < deck.length) is perfect as the upper boundary
+  ////deck is 0-indexed
